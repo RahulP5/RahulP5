@@ -16,7 +16,7 @@
   <img align="left" alt="website" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br />
+
 <br />
 
 ## I'm a Embeded Developer
@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning Python and Matlab :blush:
 - ⚡ Fun fact: I love Programming and playing Chess
 
-<br />
+
 <br />
 
 **Languages and Tools:**  
