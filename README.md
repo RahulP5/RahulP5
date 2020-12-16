@@ -12,13 +12,12 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulp5&layout=compact)](https://github.com/rahulp5/github-readme-stats)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<br />
+<br />
 
-  <img align="left" alt="RahulP5's GitHub Stats" src="https://github-readme-stats.rahulp5.vercel.app/api?username=rahulp5&show_icons=true&hide_border=true" />
-
-</details>
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulp5&show_icons=true&theme=radical)
 
 
 [website]: https://tryexcept.in
