@@ -19,6 +19,9 @@
 
 <br />
 
+
+
+
 ## I'm a Embeded Developer
 - 🔭 I’m currently working on a Electrical Power Assistance Steering
 - 🌱 I’m currently learning Python and Matlab :blush:
@@ -82,6 +85,8 @@
 <br />
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulp5&show_icons=true&theme=radical)
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahulp5 alt=RahulP5/></p>
 
 
 [website]: https://tryexcept.in
