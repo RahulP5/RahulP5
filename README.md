@@ -67,6 +67,7 @@
 
 <code><img height="20" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"></code>
 <code><img height="20" src="https://d1fxybj1z3sjx6.cloudfront.net/live/assets/images/icons/matlab-logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/200px-Micropython-logo.svg.png"></code>
 <code><img height="20" src="https://www.twice.com/wp-content/uploads/2020/01/STMicroelectronics_logo.svg-2.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NXP_Semiconductors_Logo.svg/1200px-NXP_Semiconductors_Logo.svg.png"></code>
 <code><img height="20" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg"></code>
