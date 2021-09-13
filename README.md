@@ -34,7 +34,7 @@
 **Languages and Tools:**  
 <!--
 <code><a href="https://www.python.org/">
-  <img align="left" alt="website" width="21px" src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" />
+  <img align="left" alt="website" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 </a></code>
 <code><a href="https://in.mathworks.com/products/matlab.html">
   <img align="left" alt="website" width="21px" src="https://d1fxybj1z3sjx6.cloudfront.net/live/assets/images/icons/matlab-logo.png" />
