@@ -33,8 +33,8 @@
 
 **Languages and Tools:**  
 <!--
-<code><a href="https://www.python.org/">
-  <img align="left" alt="website" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4518857%2Fpython_icon&psig=AOvVaw2KJmieby5JnTaEu61h67pX&ust=1632911839690000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNCXlLLkovMCFQAAAAAdAAAAABAD" />
+<code><a href=""https://www.python.org/">
+  <img align="left" alt="website" width="21px" src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" />
 </a></code>
 <code><a href="https://in.mathworks.com/products/matlab.html">
   <img align="left" alt="website" width="21px" src="https://d1fxybj1z3sjx6.cloudfront.net/live/assets/images/icons/matlab-logo.png" />
