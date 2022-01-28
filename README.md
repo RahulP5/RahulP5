@@ -24,7 +24,7 @@
 
 
 ## I'm a Embeded Developer
-- 🔭 I’m currently working on a Electrical Power Assistance Steering
+- 🔭 I’m currently working on a EV thermal management system
 - 🌱 I’m currently learning Python and Matlab :blush:
 - ⚡ Fun fact: I love Programming and playing Chess
 
