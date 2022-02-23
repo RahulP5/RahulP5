@@ -1,12 +1,5 @@
 ### Hi there, I'm Rahul 👋
 
-<a href="https://tryexcept.in">
-  <img align="left" alt="website" width="21px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-
-<a href="https://twitter.com/pachpind2011">
-  <img align="left" alt="Rahul Pachpind | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 
 <a href="https://instagram.com/rahul_pachpind">
   <img align="left" alt="website" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
