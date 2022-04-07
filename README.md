@@ -29,7 +29,7 @@
 <code><a href=""https://www.python.org/">
   <img align="left" alt="website" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </a></code>
-<code><a href="https://in.mathworks.com/products/matlab.html">
+<code><a href="https://in.mathworks.com/">
   <img align="left" alt="website" width="21px" src="https://d1fxybj1z3sjx6.cloudfront.net/live/assets/images/icons/matlab-logo.png" />
 </a></code>
 <code><a href="https://www.st.com/">
