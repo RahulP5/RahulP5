@@ -80,7 +80,16 @@
 <br />
 <br />
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulp5&show_icons=true&theme=radical)
+<!--![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulp5&show_icons=true&theme=radical)-->
+
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rahulp5&show_icons=true&locale=en" alt="Rahul" />
+</p>
+
+<p align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulp5&" alt="Rahul" />
+</p>
 
 
 [website]: https://tryexcept.in
