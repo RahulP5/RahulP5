@@ -1,6 +1,7 @@
-### Hi there, I'm Rahul 👋
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&size=20&lines=Hi+there%2C+I'm+Rahul)](https://git.io/typing-svg)
+<!--
 <a href="https://instagram.com/rahul_pachpind">
   <img align="left" alt="website" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -10,7 +11,7 @@
 </a>
 
 
-<br />
+<br />-->
 <br />
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahulp5 alt=RahulP5/></p>
