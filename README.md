@@ -17,7 +17,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahulp5 alt=RahulP5/></p>
 
 
-## I'm a Embeded Developer
+## I'm a Software Developer
 - 🔭 I’m currently working on a UDS(Unified Diagnostic Services)
 - 🌱 I’m currently learning Python and Matlab :blush:
 - ⚡ Fun fact: I love Programming and playing Chess
